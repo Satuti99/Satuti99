@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence Projects**
 
-- 💬 Ask me about **HTML,CSS,Javascript,C,C++,Python**
+- 💬 Ask me about **HTML,CSS,Javascript,C,C++,Python,DSA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
