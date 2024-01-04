@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **Federated Learning,Artificial Intelligence Projects**
 
 - 💬 Ask me about **HTML,CSS,Javascript,C,C++,Python,DSA**
-
+[![An image of @satuti99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satuti99)](https://holopin.io/@satuti99)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
