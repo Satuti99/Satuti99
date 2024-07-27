@@ -15,17 +15,10 @@
 
 ## GSSOC(24) Badges⭐⭐⭐⭐⭐
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
-</div>
+| ![Badge 1](https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png) | ![Badge 2](https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png) | ![Badge 3](https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png) | ![Badge 4](https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png) | ![Badge 5](https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png) |
+|:--:|:--:|:--:|:--:|:--:|
+| ![Badge 6](https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png) | ![Badge 7](https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png) | ![Badge 8](https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png) | ![Badge 9](https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png) |
+
 
 
 
