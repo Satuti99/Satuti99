@@ -6,11 +6,30 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👯 I’m looking to collaborate on **Federated Learning,Artificial Intelligence Projects**
+- 👯 I’m looking to collaborate on **Federated Learning, Artificial Intelligence Projects**
 
-- 💬 Ask me about **HTML,CSS,Javascript,C,C++,Python,DSA**
+- 💬 Ask me about **HTML, CSS, JavaScript, C, C++, Python, DSA**
+<br>
+<br>
+<br>
+
+## GSSOC(24) Badges⭐⭐⭐⭐⭐
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
+</div>
+<br>
+<br>
+<br>
+
 [![An image of @satuti99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satuti99)](https://holopin.io/@satuti99)
-![Share Badge](https://github.com/user-attachments/assets/c21dc3fe-f61b-4506-b965-86e15f4c8da4)
 <!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
 </p>
