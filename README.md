@@ -10,6 +10,7 @@
 
 - 💬 Ask me about **HTML,CSS,Javascript,C,C++,Python,DSA**
 [![An image of @satuti99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satuti99)](https://holopin.io/@satuti99)
+![Share Badge](https://github.com/user-attachments/assets/c21dc3fe-f61b-4506-b965-86e15f4c8da4)
 <!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
 </p>
